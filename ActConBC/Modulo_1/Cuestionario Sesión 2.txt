@@ -1,0 +1,81 @@
+Cuestionario Sesión 2
+
+1.- ¿Cuál es el objetivo principal del Módulo 1 en el plan formativo?
+
+Definir una ruta especifica 
+
+2.- ¿Qué lenguaje de programación se destaca por su versatilidad y amplia gama de librerías especializadas en ciencia de datos?
+
+Python, R(?)
+
+3.- ¿Cuál es una de las principales contribuciones del Módulo 3 (Obtención y Preparación de Datos)?
+
+Capacitar al estudiante a preparar datasets
+
+4.- ¿Qué tipo de análisis permite comprender patrones, tendencias y anomalías antes de aplicar modelos complejos?
+
+EDA
+
+5.- ¿Qué concepto clave se aborda en el Módulo 5 (Inferencia Estadística)?
+
+Pruebas de hipótesis e intervalos de confianza
+
+6.- ¿Qué tipo de aprendizaje se enfoca en resolver problemas de clasificación y predicción?
+
+Aprendizaje Supervisado
+
+7.- ¿Qué técnica se utiliza para encontrar patrones ocultos en datos no etiquetados?
+
+Clustering
+
+8.- ¿Qué tecnología es fundamental para procesar grandes volúmenes de datos de manera distribuida?
+
+Hadoop
+
+9.- ¿Qué herramienta es ideal para crear dashboards interactivos y comunicar insights a audiencias no técnicas?
+
+Tableau
+
+10.- ¿Qué módulo se enfoca en integrar proyectos previos en un documento profesional coherente?
+
+Modulo 11
+
+11.- ¿Qué habilidades blandas se desarrollan principalmente en el Módulo 11?
+
+CV, networking y brainding personal
+
+12.- ¿Qué herramienta open source es esencial para el análisis exploratorio de datos y visualización avanzada?
+
+R
+
+13.- ¿Qué framework de deep learning es indispensable para proyectos de inteligencia artificial avanzada?
+
+TensorFlow
+
+14.- ¿Qué entorno de desarrollo en la nube facilita el acceso a recursos computacionales sin configuración local?
+
+GoogleColab
+
+15.- ¿Qué característica del trabajo técnico en ciencia de datos se refiere a la capacidad de adaptarse a nuevas tecnologías?
+
+Adaptabilidad a nuevas tecnologías y métodos
+
+16.- ¿Qué producto se obtiene principalmente en el Módulo 4 (Análisis Exploratorio de Datos)?
+
+Informe exploratorio con insights iniciales
+
+17.- ¿Qué tipo de modelo se desarrolla en el Módulo 6 (Aprendizaje Supervisado)?
+
+Modelo predictivo evaluado y entrenado
+
+18.- ¿Qué herramienta es ideal para presentar análisis exploratorios con explicaciones detalladas paso a paso?
+
+Jupyter Notebook
+
+19.- ¿Qué módulo aborda consideraciones éticas como la protección de la privacidad y la mitigación de sesgos?
+
+Modulo 9
+
+20.- ¿Qué tipo de herramienta es GitHub Pages y qué contribución tiene en el portafolio?
+
+Plataforma de hosting web – Excelente para destacar proyectos técnicos con acceso al código fuente

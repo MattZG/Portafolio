@@ -1,0 +1,41 @@
+Cuestionario Sesión 3
+
+1.- ¿Cuál es la principal diferencia entre un Bootcamp y un curso tradicional?
+
+Enfoque práctico y basado en proyectos
+
+2.- ¿Cuál es una de las metodologías aplicada dentro de un Bootcamp?
+
+Aula invertida
+
+3.- ¿Qué es un Bootcamp en el contexto del análisis de datos?
+
+Un programa intensivo y práctico para acelerar el aprendizaje
+
+4.- ¿Qué es un currículum vitae efectivo?
+
+Un documento breve y relevante para el puesto al que se postula
+
+5.- ¿Qué es un DataFrame en Pandas?
+
+Una tabla bidimensional con filas y columnas
+
+6.- ¿Qué habilidad blanda es fundamental para tener éxito en un Bootcamp?
+
+Tolerancia a la frustración
+
+7.- ¿Qué herramienta es comúnmente utilizada para la gestión de proyectos en un Bootcamp?
+
+Trello
+
+8.- ¿Qué librería de Python es ampliamente utilizada para el análisis de datos?
+
+Pandas
+
+9.- ¿Qué significa SQL en el contexto del análisis de datos?
+
+Structured Query Language
+
+10.- ¿Qué tipo de dato se utiliza para almacenar números decimales en Python?
+
+Float
