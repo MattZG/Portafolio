@@ -1,14 +1,70 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 20px;
-  background-color: #f9f9f9;
-}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portafolio – Matías Zamorano Goldrine</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Matías Zamorano Goldrine</h1>
+      <p>Magíster en Cosmología · Analista en Educación Superior · Ciencia de Datos</p>
+    </header>
 
-header {
-  text-align: center;
-  margin-bottom: 40px;
-}
+    <section id="presentacion">
+      <h2>Presentación</h2>
+      <p>¡Hola! Te invito a ver el siguiente video para conocerme mejor:</p>
+      <div class="video-container">
+        <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/ljwfiwztIQI"
+          title="Presentación de Matías Zamorano Goldrine"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </section>
 
-h1 {
-  color: #333;
-}
+    <section id="cv">
+      <h2>Resumen de CV</h2>
+      <p>
+        Magíster en Cosmología con especialidad en análisis y ciencia de datos.
+        Actualmente me desempeño como analista de educación superior en el área
+        de análisis de entorno e IA generativa.
+      </p>
+    </section>
+
+    <section id="proyectos">
+      <h2>Proyectos</h2>
+      <ul>
+        <li><a href="https://github.com/MattZG/Asteroid_Classification" target="_blank">Clasificación de asteroides</a></li>
+        <li><a href="https://github.com/MattZG/Energy_consumption" target="_blank">Consumo energético</a></li>
+        <li><a href="https://github.com/MattZG/Churn_Bank" target="_blank">Abandono bancario</a></li>
+        <li><a href="https://github.com/MattZG/Water_Potability" target="_blank">Portabilidad del agua</a></li>
+        <li><a href="https://github.com/MattZG/Mass_Prediction" target="_blank">Predicción de masa</a></li>
+      </ul>
+
+      <p>
+        Los archivos desarrollados en clase están con el nombre de
+        <em>Módulo</em>, mientras que las actividades de consolidación se
+        encuentran en la carpeta
+        <a href="https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/ActConBC" target="_blank">Actividades</a>.
+      </p>
+    </section>
+
+    <section id="contacto">
+      <h2>Contacto</h2>
+      <p>
+        📧 <a href="mailto:matias.z.goldrine@gmail.com">matias.z.goldrine@gmail.com</a><br />
+        💼 <a href="https://www.linkedin.com/in/mat%C3%ADaszamoranogoldrine/" target="_blank">LinkedIn</a>
+      </p>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 Matías Zamorano Goldrine</p>
+    </footer>
+  </div>
+</body>
+</html>
