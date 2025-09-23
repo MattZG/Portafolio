@@ -6,7 +6,7 @@
 
 Mi nombre es Matías te invito a ver el siguiente video para que me conozcas mejor :)
 
-[Presentación](https://www.youtube.com/watch?v=ljwfiwztIQI)
+[Video presentación](https://www.youtube.com/watch?v=ljwfiwztIQI)
 
 Este es mi portafolio del Bootcamp Talento Digital. Aquí presento mi [CV]() y enlaces a todos mis proyectos.
 
