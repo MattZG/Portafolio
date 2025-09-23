@@ -11,8 +11,8 @@ Los archivos desarrollados en clase estan con el nombre de *Modulo*, mientras qu
 
 En los siguentes enlances puedes visitar los proyectos que he realizado:
 
-    -[Clasificacion de asteroides](https://github.com/MattZG/Asteroid_Classification)
-    -[Consumo energetico](https://github.com/MattZG/Energy_consumption)
-    -[Abandono bancario](https://github.com/MattZG/Churn_Bank)
-    -[Portabilidad del agua](https://github.com/MattZG/Water_Potability)
-    -[Prediccion de masa](https://github.com/MattZG/Mass_Prediction)
+-[Clasificacion de asteroides](https://github.com/MattZG/Asteroid_Classification)
+-[Consumo energetico](https://github.com/MattZG/Energy_consumption)
+-[Abandono bancario](https://github.com/MattZG/Churn_Bank)
+-[Portabilidad del agua](https://github.com/MattZG/Water_Potability)
+-[Prediccion de masa](https://github.com/MattZG/Mass_Prediction)
