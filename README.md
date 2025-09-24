@@ -12,11 +12,11 @@ Este es mi portafolio del Bootcamp Talento Digital. Aquí presento mi [CV](/docs
 
 ## Actividades
 
-Los archivos desarrollados en clase estan en la caperta [Notebooks](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/Notebooks_clases), mientras que las activididades de consolidación se encuentran en la carpeta de [Actividades](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/ActConBC)
+Los archivos desarrollados en clase estan en la carpeta [Notebooks](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/Notebooks_clases), mientras que las activididades de consolidación se encuentran en la carpeta de [Actividades](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/ActConBC)
 
 ## Proyectos
 
-En los siguentes enlances puedes visitar los proyectos que he realizado:
+En los siguentes enlaces puedes visitar los proyectos que he realizado:
 
 -[Clasificacion de asteroides](https://github.com/MattZG/Asteroid_Classification)
 
