@@ -8,7 +8,7 @@ Mi nombre es Matías te invito a ver el siguiente video para que me conozcas mej
 
 [Video presentación](https://www.youtube.com/watch?v=ljwfiwztIQI)
 
-Este es mi portafolio del Bootcamp Talento Digital. Aquí presento mi [CV](/docs/Mat%C3%ADas%20Zamorano_cv_dir.pdf) y enlaces a todos mis proyectos.
+Este es mi portafolio del Bootcamp Talento Digital. Aquí presento mi [CV](/docs/Mat%C3%ADas%20Zamorano_cv_dir.pdf) y a continuacion los enlaces las actividades realizadas en el Bootcamp junto a todos mis proyectos.
 
 ## Actividades
 
