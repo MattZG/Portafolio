@@ -12,7 +12,7 @@ Este es mi portafolio del Bootcamp Talento Digital. Aquí presento mi [CV](/docs
 
 ## Actividades
 
-Los archivos desarrollados en clase estan con el nombre de *Modulo* estan disponibles en el actual repositorio, mientras que las activididades de consolidación se encuentran en la carpeta de [Actividades](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/ActConBC)
+Los archivos desarrollados en clase estan en la caperta [Notebooks](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/Notebooks_clases), mientras que las activididades de consolidación se encuentran en la carpeta de [Actividades](https://github.com/MattZG/Portafolio-Bootcamp-Talento-Digital/tree/main/ActConBC)
 
 ## Proyectos
 
